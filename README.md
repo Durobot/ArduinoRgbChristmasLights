@@ -37,6 +37,13 @@ This is an [Arduino IDE](https://www.arduino.cc/en/Main/Software) project.
    But in this case you would probably need to change the circuit and the source code too, so
    you should know what you're doing.
 
+ - Install [Adafruit Neopixel library](https://github.com/adafruit/Adafruit_NeoPixel).
+   Go to ``Sketch -> Include Library -> Manage Libraries...`` and find Adafruit Neopixel library
+   in the list of libraries in the Library Manager window. Tip: select "All" in Type and Topic
+   and type "Adafruit NeoPixel" the filter box.
+   The latest version available _should_ be the one to install, but if it doesn't work for you
+   for whatever reason, try 1.1.7 - this is the version I've been using.
+
  - Go to ``File -> Open`` and pick ArduinoRgbChristmasLights.ino
 
  - Go to ``Tools -> Board``, and pick your board type. Some boards come in several versions,
