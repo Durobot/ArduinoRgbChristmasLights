@@ -12,6 +12,7 @@ The program fits into ATMega168 nicely, but, of course, works on ATMega328 just 
 This is an [Arduino IDE](https://www.arduino.cc/en/Main/Software) project.
 
 ### Video demonstration
+(Click to open Youtube video)
 [![Christmas Lights Video](http://img.youtube.com/vi/enWjkxR_uSA/0.jpg)](http://www.youtube.com/watch?v=enWjkxR_uSA)
 
 ### Circuit Diagram
