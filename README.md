@@ -9,9 +9,14 @@ and microcontrollers) into a controller for WS2811 / WS2812(b) -based RGB decora
 
 The program fits into ATMega168 nicely, but, of course, works on ATMega328 just as well (not better, there's no difference).
 
-This is an [Arduino IDE](https://www.arduino.cc/en/Main/Software) project 
+This is an [Arduino IDE](https://www.arduino.cc/en/Main/Software) project.
+
+### Video demonstration
+
 
 ### Circuit Diagram and photos
+![Circuit Diagram](doc/ChristmasLightsCircuit.jpg?raw=true)
+
 
 ### Frimware Installation
 
